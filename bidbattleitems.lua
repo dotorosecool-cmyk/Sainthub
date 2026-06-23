@@ -2813,3 +2813,5 @@ local ItemPrices = {
     ["2905"] = 90, -- GOAT 10
     ["2906"] = 90, -- Editable LED Ads
 }
+
+return ItemPrices
